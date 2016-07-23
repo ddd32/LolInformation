@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206541757849",
+    "firebase_url": "https://lolinformation-e7541.firebaseio.com",
+    "project_id": "lolinformation-e7541",
+    "storage_bucket": "lolinformation-e7541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206541757849:android:78ce84d24771dbad",
+        "android_client_info": {
+          "package_name": "com.huyuit.lolinfomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206541757849-i31pku8jc2khefv68klcoieq7at72582.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVP2ijwc1mV-YlCJ_ao6q6hRnRb6zKqv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
