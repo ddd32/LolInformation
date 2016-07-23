@@ -1,3 +1,236 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_56f297f8133266756cff458ad184b34f017589df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_8a9ce8ce01332518a47839bf802a5ea67a6db590\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="045449078b35de4c9110c644fa1ff26dcb180e54">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_78ceeb5c4acd1e820043d5f748786a087ff6ea04\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_731534425016d40fedfbf5ff348a763700ab56d5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_09e479dcc8dadb946df002519430f5ae18f7e410\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_f9d726a602bf57de50d327f3bab0c871e9720bc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_ccf40fc7ef3b2c6da248127ac84fa7c1621e8cad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_76a2abbc5fb47f4f42bac720341e824e200028fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_eb8efa69a3ea100389f57fc8c33ec5c9cd628fe6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="99cd74cb046eb8e85b39a2a2d1d9cfa2abf5b40f">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eb124b5dc3872e94a588e7be66bf5a6402a92267\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_7f465f1e68754f82b54eefc6158f0d5a8b2be3dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db73bb0b63ec60c9467b564baaf7c1e5d469c9f2">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-1.1.0_94bfb0c30c3f5038a6a1238fe800058f716e3877\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_67bf470c707b67f2ac2d41d42f171fdd4037378b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.2.1_e8d9bd466a448c1673e46a791d55ee3ec49af0ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_d452d51b95e3f54725e3a4d46d4e049819204527\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_8389be6607674e5a13cda681bd1bee0a245b0ee4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.2.1_b219edb772468e0908019802303618749c91914d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_2f8cd3dea0a1025d870fd3555b810395ac694755\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.1.0\4459414c171c7b60cdc2f089ffa72d19d773835e\realm-annotations-1.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4459414c171c7b60cdc2f089ffa72d19d773835e">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-1.1.0_dedc665bc99e4f6bbf1653b2b2132043e73e1540\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.5\571f4e0451db64a7b41dbeb5f2503986fe5acdb4\dagger-2.5.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="571f4e0451db64a7b41dbeb5f2503986fe5acdb4">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.5_ada454101b412a55580f214acafc82494d3b8d14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_e5bb2d096036770ce9c34d3013e4b606f9911fb3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_8d3b0024e0bd460398121f6753d07f9f5700fefe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_0272f7e18949150af99e50a898e77f2eabd0335e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_88445141718c924a2fb1f94be4eeb2ac9b536c4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_7f166f849544eab504c2941487980c1f4048a46e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_c5a6fd1b61e9e17478953705f92c8ff3a05426ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\huyuit\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_755e975479b87cee7596fe3e1bd9d98a6c46a759\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_5fee7db6f22c5ad6d16c19c433f3d842c6da58aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_c2ab059b82ba48673200366d41d23d74750b8c69\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_85cc3ebefd064fa25e21c889e1deae8dd55dc67b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_be841be585740d039f9603e21d6d1ae32164c4fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_c92aebe5191fd1a284a5b1298ba6d409c7426aa3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Workspace\LolInformation\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_1c4d6922ed117173737e102622171e50dd1df27a\classes.dex" />
+    </item>
+
+</items>
