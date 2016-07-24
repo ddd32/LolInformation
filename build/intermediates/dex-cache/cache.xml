@@ -19,7 +19,7 @@
         jar="C:\Workspace\LolInformation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="045449078b35de4c9110c644fa1ff26dcb180e54">
+        sha1="720741ae313b581794720c0604fadcc96586a31b">
         <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_78ceeb5c4acd1e820043d5f748786a087ff6ea04\classes.dex" />
     </item>
     <item
@@ -68,7 +68,7 @@
         jar="C:\Workspace\LolInformation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="99cd74cb046eb8e85b39a2a2d1d9cfa2abf5b40f">
+        sha1="3bdc00c503f9b1b9d9ffef2390a968451ea7c737">
         <dex dex="C:\Workspace\LolInformation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eb124b5dc3872e94a588e7be66bf5a6402a92267\classes.dex" />
     </item>
     <item

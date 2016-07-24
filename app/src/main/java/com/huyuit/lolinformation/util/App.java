@@ -2,28 +2,29 @@ package com.huyuit.lolinformation.util;
 
 import android.app.Application;
 
-import android.content.Context;
-import com.huyuit.lolinformation.dragger.component.DaggerNetComponent;
-import com.huyuit.lolinformation.dragger.component.NetComponent;
-import com.huyuit.lolinformation.dragger.module.AppModule;
-import com.huyuit.lolinformation.dragger.module.NetModule;
+import com.huyuit.lolinformation.data.local.Database;
+import com.huyuit.lolinformation.dragger.component.Injector;
+import javax.inject.Inject;
 
 /**
  * Created by huyuit on 7/20/2016.
  */
 public class App extends Application {
 
-  private NetComponent mNetComponent;
+  @Inject Database database;
 
   @Override public void onCreate() {
     super.onCreate();
-    mNetComponent = DaggerNetComponent.builder()
-        .appModule(new AppModule(this))
-        .netModule(new NetModule("https://global.api.pvp.net/"))
-        .build();
+    initDagger();
+    initDatabase();
   }
 
-  public static NetComponent getNetComponent(Context context) {
-    return ((App) context.getApplicationContext()).mNetComponent;
+  protected void initDatabase() {
+    database.setup();
+  }
+
+  protected void initDagger() {
+    Injector.initializeApplicationComponent(this);
+    Injector.getApplicationComponent().inject(this);
   }
 }

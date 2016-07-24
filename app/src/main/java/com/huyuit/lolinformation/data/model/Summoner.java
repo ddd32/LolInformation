@@ -8,4 +8,6 @@ import io.realm.RealmObject;
 public class Summoner extends RealmObject {
   private String summonerId;
   private String name;
+
+
 }

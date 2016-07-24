@@ -10,7 +10,9 @@ import butterknife.ButterKnife;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.huyuit.lolinformation.R;
+import com.huyuit.lolinformation.data.local.Database;
 import com.huyuit.lolinformation.data.local.Region;
+import com.huyuit.lolinformation.dragger.component.Injector;
 import com.huyuit.lolinformation.util.App;
 import javax.inject.Inject;
 import retrofit2.Retrofit;
@@ -20,12 +22,13 @@ public class MainActivity extends AppCompatActivity {
   private static final String TAG = MainActivity.class.getSimpleName();
   @Inject Retrofit retrofit;
   @Inject FirebaseDatabase firebaseDatabase;
+  @Inject Database database;
   @BindView(R.id.recycler_main) RecyclerView mRecyclerMain;
   private DatabaseReference databaseReference;
 
   @Override protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    App.getNetComponent(this).inject(this);
+    Injector.getApplicationComponent().inject(this);
     setContentView(R.layout.activity_main);
     ButterKnife.bind(this);
     //databaseReference = firebaseDatabase.getReference("champion");
