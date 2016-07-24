@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
     App.getNetComponent(this).inject(this);
     setContentView(R.layout.activity_main);
     ButterKnife.bind(this);
-    Log.d(TAG, "onCreate: " + Region.br.name());
     //databaseReference = firebaseDatabase.getReference("champion");
     //Call<ChampionResponse> championResponseCall =
     //    retrofit.create(RestApiRiot.class).getChampion("vn_VN", true, "tags", Const.API_KEY);
